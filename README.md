@@ -1,64 +1,61 @@
-<html>
-<head>
-<meta charset="utf-8">
-<title >Poems of internetz</title>
-</head>
-<body><h1>Poems of internetz</h1>
-<p>
-No security<br/>
-Without some obscurity<br/>
-Block ICMP<br/>
-</p>
-<p>
-Read only Friday<br/>
-A concept for noob admins<br/>
-It commits, it ships<br/>
-</p>
-<p>
-My /dev/mouse is gone<br/>
-dmesg | tail says nothing<br/>
-eaten by /bin/cat<br/>
-</p>
-<p>
-Admin writes haiku<br/>
-Nagios is flaming red<br/>
-Admin writes reboot<br/>
-</p>
-<p>
-User runs beta<br/>
-firefox ahead of all<br/>
-but flash is still there<br/>
-</p>
-<p>
-Text scrolls down my screen<br/>
-I run UNIX when I can<br/>
-No GUIs for me<br/>
-</p>
-<p>
-Servers in the cloud<br/>
-The future of computing<br/>
-But where are my files?<br/>
-</p>
-<p>
-Sladdar i härvor<br/>
-Ledsen nätverkstekniker<br/>
-Drömmer om ljuv sömn<br/>
-</p>
-<p>
-character encode<br/>
-UTF-8 Latin 1<br/>
-Will it ever work?<br/>
-</p>
-<p>
-work harder hudson<br/>
-the code is clear of errors<br/>
-give me my blue balls<br/>
-</p>
-<p>
-Det fanns bra sås lagrad på nätet<br/>
-någonstans på github förgätet<br/>
-någon fann den ändå<br/>
-försökte förstå<br/>
-suckade, skrev om allt förmätet<br/>
-</p>
-</body></html>
+poems-of-internetz
+==================
+
+# poems.of.internetz.se
+```
+No security
+Without some obscurity
+Block ICMP
+```
+```
+Read only Friday
+A concept for noob admins
+It commits, it ships
+```
+```
+My /dev/mouse is gone
+dmesg | tail says nothing
+eaten by /bin/cat
+```
+```
+Admin writes haiku
+Nagios is flaming red
+Admin writes reboot
+```
+```
+User runs beta
+firefox ahead of all
+but flash is still there
+```
+```
+Text scrolls down my screen
+I run UNIX when I can
+No GUIs for me
+```
+```
+Servers in the cloud
+The future of computing
+But where are my files?
+```
+```
+Sladdar i härvor
+Ledsen nätverkstekniker
+Drömmer om ljuv sömn
+```
+```
+character encode
+UTF-8 Latin 1
+Will it ever work?
+```
+```
+work harder hudson
+the code is clear of errors
+give me my blue balls
+```
+```
+Det fanns bra sås lagrad på nätet
+någonstans på github förgätet
+någon fann den ändå
+försökte förstå
+suckade, skrev om allt förmätet
+```
