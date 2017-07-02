@@ -1,7 +1,3 @@
-poems-of-internetz
-==================
-
-# poems.of.internetz.se
 ```
 No security
 Without some obscurity
