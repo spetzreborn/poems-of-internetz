@@ -1,13 +1,4 @@
 ```
-Hello Heap space, my old friend
-I've come to kill java once again.
-Because of your annoying memory leaks
-Left the users without an interface
-And the vision of a system with leaks
-Still remains
-Then I reboot the server
-```
-```
 No security
 Without some obscurity
 Block ICMP
@@ -63,4 +54,13 @@ någonstans på github förgätet
 någon fann den ändå
 försökte förstå
 suckade, skrev om allt förmätet
+```
+```
+Hello Heap space, my old friend
+I've come to kill java once again.
+Because of your annoying memory leaks
+Left the users without an interface
+And the vision of a system with leaks
+Still remains
+Then I reboot the server
 ```
