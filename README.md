@@ -64,3 +64,10 @@ And the vision of a system with leaks
 Still remains
 Then I reboot the server
 ```
+```
+There was this coder from Dover,
+who wanted to improve his Land Rover.
+Hacked the cars bus
+and made a big fuss
+Drove over the cliff, Game Over
+```
